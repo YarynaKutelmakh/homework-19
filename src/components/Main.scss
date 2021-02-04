@@ -1,0 +1,92 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    background-color: rgb(240, 154, 200);
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    margin: 23% 46.5% 0 ;
+}
+
+.icon {
+    width: 22px;
+    height: 22px;
+    margin: 24% ;
+}
+
+h2 {
+    font-weight: 300;
+    text-align: center;
+}
+
+input {
+    width: 95.5%;
+    padding: 2%;
+    margin-bottom: 4%;
+    background-color: inherit;
+    border: 1px solid #3a3a3a;
+    border-radius: 3px;
+    color: #ffffff;
+}
+
+.correct {
+    border: 1px solid green;
+}
+
+.incorrect {
+    border: 1px solid red;
+}
+
+.checkbox {
+    width: auto;
+}
+
+.rememberMe {
+    font-size: 14px;
+}
+
+.MuiButtonBase-root {
+    width: 100%;
+    margin-bottom: 4% !important;
+}
+
+.link {
+    float: right;
+}
+
+.full-name {
+    display: flex;
+}
+
+.first-name {
+    margin-right: 1%;
+}
+
+.sign-up {
+    float: right;
+}
+
+.password-img {
+    width: 40rem;
+    height: 44rem;
+    margin-left: 27%;
+}
+
+.links {
+    text-decoration: none;
+    color: #3f51b5;
+    font-size: 13px;
+}
+
+p {
+    color: rgb(155, 155, 155);
+    font-size: 12px;
+    font-weight: 200;
+    text-align: center;
+    margin-top: 13%;
+}
